@@ -82,9 +82,7 @@ https://user-images.githubusercontent.com/77540753/197020778-9bb78963-4498-43f7-
 
 ## Authors
 This Project would not have been possible without the immense  help of following people.
-- [@Yuvraj](https://github.com/YUVRAJg37)
-- [@Tanush Chaudhary](https://github.com/Tanush15)
-- [@Yash Joshi](https://github.com/yashjoshi-dotcom)
+
 
 
 ## Roadmap
